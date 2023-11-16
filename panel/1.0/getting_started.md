@@ -23,6 +23,8 @@ Pterodactyl does not support most OpenVZ systems due to incompatibilities with D
 this software on an OpenVZ based system you will &mdash; most likely &mdash; not be successful.
 :::
 
+**Note: Could you add the recommended build? (memory, drive space, etc?)**
+
 | Operating System | Version |     Supported      | Notes                                                       |
 |------------------|---------|:------------------:|-------------------------------------------------------------|
 | **Ubuntu**       | 20.04   | :white_check_mark: | Documentation written assuming Ubuntu 20.04 as the base OS. |
